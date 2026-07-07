@@ -1,1 +1,3 @@
 # proyevto-final-cambio-climatico
+objetivo: quiero concientizar a los usuarios sobre el cambio climatico,en que nos afecta,como lo paramos etc
+que va a ser mi proyecto: voy a hacer un chat bot en discord con  sintesis de voz en la que si lo activamos nos dice que es eln calentamiento global y luego nos muestra distintos comando para que el bot contenste por ejemplo si le quiero preguntar al bot en que nos afecta el cambio climatico escribir "=1",tambien por ejemplo si escribimos "=quiz" el chat bot nos da un cuestionario para que nosotros respondamos. y si sobra tiempo podria implementarle mas cosas.
